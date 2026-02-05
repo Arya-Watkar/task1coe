@@ -5,3 +5,4 @@ status
 commit 
 add 
 switch branch 
+branch
