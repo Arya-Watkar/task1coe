@@ -1,0 +1,10 @@
+touch 
+ls
+cd
+commit 
+add 
+push 
+pull 
+mkdir
+rmdir
+pwd
