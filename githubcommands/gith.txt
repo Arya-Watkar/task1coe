@@ -1,0 +1,7 @@
+init 
+clone 
+config 
+status 
+commit 
+add 
+switch branch 
